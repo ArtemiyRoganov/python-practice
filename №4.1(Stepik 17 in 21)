@@ -1,0 +1,4 @@
+# Task: find the minimum of four numbers
+
+y=int(input());x=int(input());x1=int(input());y1=int(input())
+print(min(y,x,y1,x1))
